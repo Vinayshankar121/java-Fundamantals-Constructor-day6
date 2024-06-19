@@ -4,8 +4,8 @@ class Static {
 
     // Static block
     static {
-        int x = 10;
-        int y = 20;
+         x = 10;
+         y = 20;
     }
 
     // Static variable
